@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactchirag/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactchirag/static/js/main.76e65d3b.chunk.js",
+    "main.js.map": "/reactchirag/static/js/main.76e65d3b.chunk.js.map",
+    "runtime-main.js": "/reactchirag/static/js/runtime-main.0c02fa0e.js",
+    "runtime-main.js.map": "/reactchirag/static/js/runtime-main.0c02fa0e.js.map",
+    "static/js/2.bcddfd34.chunk.js": "/reactchirag/static/js/2.bcddfd34.chunk.js",
+    "static/js/2.bcddfd34.chunk.js.map": "/reactchirag/static/js/2.bcddfd34.chunk.js.map",
+    "index.html": "/reactchirag/index.html",
+    "precache-manifest.6881c028ce7a81eb30a25c30583f524f.js": "/reactchirag/precache-manifest.6881c028ce7a81eb30a25c30583f524f.js",
+    "service-worker.js": "/reactchirag/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactchirag/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bcddfd34.chunk.js.LICENSE.txt": "/reactchirag/static/js/2.bcddfd34.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactchirag/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c02fa0e.js",
+    "static/js/2.bcddfd34.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.76e65d3b.chunk.js"
+  ]
+}
